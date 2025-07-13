@@ -98,4 +98,5 @@ https://gitee.com/tushaoyong/live/raw/master/%E6%8E%A5%E5%8F%A3/IPV6.txt
 ++http://l.gmbbk.com/upload/16401640.txt
 ++http://122.228.85.203:5988/uploads/tvbox/tv.txt
 ++https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt
+++https://raw.githubusercontent.com/lai1tony/git_catvod/refs/heads/master/hk1box/live.txt
 ++
